@@ -1,0 +1,440 @@
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: ATE
+Enter the value: -7
+Item -7 inserted into ht with key ATE
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: EAT
+Enter the value: 5
+Item 5 inserted into ht with key EAT
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: TEA
+Enter the value: 1000
+Item 1000 inserted into ht with key TEA
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: GRADE
+Enter the value: 100
+Item 100 inserted into ht with key GRADE
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: DSA
+Enter the value: 10
+Item 10 inserted into ht with key DSA
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: CAT
+Enter the value: 67
+Item 67 inserted into ht with key CAT
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: DOGGY
+Enter the value: 100
+Item 100 inserted into ht with key DOGGY
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: CHAIRS
+Enter the value: -45
+Item -45 inserted into ht with key CHAIRS
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: EAT
+Enter the value: 76
+Item with key 'EAT' already exists in ht and cannot be inserted again.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: LETTER
+Enter the value: 6
+Item 6 inserted into ht with key LETTER
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: LETTER
+Enter the value: 34
+Item with key 'LETTER' already exists in ht and cannot be inserted again.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: GRADE
+Enter the value: 0
+Item with key 'GRADE' already exists in ht and cannot be inserted again.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: HASH
+Enter the value: 88
+Item 88 inserted into ht with key HASH
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: EAT
+Enter the value: 34
+Item with key 'EAT' already exists in ht and cannot be inserted again.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: POTATO
+Enter the value: 50
+Item 50 inserted into ht with key POTATO
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: COFFEE
+Enter the value: -10
+Item -10 inserted into ht with key COFFEE
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: BOOK
+Enter the value: 25
+Item 25 inserted into ht with key BOOK
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: BIRD
+Enter the value: 80
+Item 80 inserted into ht with key BIRD
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: FISH
+Enter the value: -15
+Item -15 inserted into ht with key FISH
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to insert: LAPTOP
+Enter the value: 200
+Item 200 inserted into ht with key LAPTOP
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: {LAPTOP, 200} {BOOK, 25} {COFFEE, -10} {HASH, 88} {LETTER, 6} {GRADE, 100} {EAT, 5} {FISH, -15} {CAT, 67} {DSA, 10} {TEA, 1000} {ATE, -7} {BIRD, 80} {POTATO, 50} {CHAIRS, -45} {DOGGY, 100} 
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key you would like the hashcode for: COFFEE
+Hashcode : 116594853
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key you would like the hashcode for: POTATO
+Hashcode : 553256591
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key you would like the hashcode for: EAT
+Hashcode : 5172
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key you would like the hashcode for: HASH
+Hashcode : 263784
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: ATE
+Item 'ATE' deleted.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: EAT
+Item 'EAT' deleted.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: TEA
+Item 'TEA' deleted.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: GRADE
+Item 'GRADE' deleted.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: DSA
+Item 'DSA' deleted.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: CAT
+Item 'CAT' deleted.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: DOGGY
+Item 'DOGGY' deleted.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: CHAIRS
+Item 'CHAIRS' deleted.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: EAT
+Item does not exist, cannot delete a non-existent item!
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: LETTER
+Item 'LETTER' deleted.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: LETTER
+Item does not exist, cannot delete a non-existent item!
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: GRADE
+Item does not exist, cannot delete a non-existent item!
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: HASH
+Item 'HASH' deleted.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: EAT
+Item does not exist, cannot delete a non-existent item!
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: POTATO
+Item 'POTATO' deleted.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: COFFEE
+Item 'COFFEE' deleted.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: BOOK
+Item 'BOOK' deleted.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: BIRD
+Item 'BIRD' deleted.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: FISH
+Item 'FISH' deleted.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Enter the key of the item to delete: LAPTOP
+Item 'LAPTOP' deleted.
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: 
+Select an option:
+0.        Exit
+1.        Insert a [key, associated value] pair in the table.
+2.        Delete a pair from the table.
+3.        Retrieve and display the value associated with a key in the table.
+4.        Display the hashCode of a key.
+5.        Display the content of the table.
+Enter your choice: Exiting...
