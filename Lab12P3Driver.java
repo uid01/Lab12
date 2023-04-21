@@ -1,12 +1,12 @@
 /*
- * Purpose: Data Structure and Algorithms Lab 11 Problem 3
+ * Purpose: Data Structure and Algorithms Lab 12 Problem 2
  * Status:  Complete and thoroughly tested 
- * Last update: 04/17/23
- * Submitted:  04/17/23
+ * Last update: 04/21/23
+ * Submitted:  04/21/23
  * Comment: test suite and sample run attached
  * Comment: I declare that this is entirely my own work
  * @author: Jason Fuscellaro
- * @version: 2023.04.17
+ * @version: 2023.04.21
  */
 import java.io.IOException;
 import java.io.BufferedReader;

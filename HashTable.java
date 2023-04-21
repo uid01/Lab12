@@ -1,3 +1,13 @@
+/*
+ * Purpose: Data Structure and Algorithms Lab 12 Problem 1
+ * Status:  Complete and thoroughly tested 
+ * Last update: 04/21/23
+ * Submitted:  04/21/23
+ * Comment: test suite and sample run attached
+ * Comment: I declare that this is entirely my own work
+ * @author: Jason Fuscellaro
+ * @version: 2023.04.21
+ */
 // ********************************************************
 // Hash table implementation.
 // Assumption: A table contains unique keys with possibly non-unique associated values
