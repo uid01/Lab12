@@ -17,7 +17,7 @@ public class Lab12P3Driver {
 public static void main(String[] args)throws IOException{
         HashTable ht = new HashTable();
         int choice = -1;
-        while (choice != 0) {
+        
             System.out.println("Select an option:");
             System.out.println("0.        Exit");
             System.out.println("1.        Insert a [key, associated value] pair in the table.");
@@ -26,7 +26,8 @@ public static void main(String[] args)throws IOException{
             System.out.println("4.        Display the hashCode of a key.");
             System.out.println("5.        Display the content of the table.");
             System.out.print("Enter your choice: ");
-            choice = Integer.parseInt(stdin.readLine());
+          while(choice != 0){
+	    choice = Integer.parseInt(stdin.readLine());
 
             switch (choice) {
                 case 0:
