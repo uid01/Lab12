@@ -15,7 +15,7 @@ public class Lab12P3Driver {
     private static BufferedReader stdin = new BufferedReader(new InputStreamReader(System.in));
 
 public static void main(String[] args)throws IOException{
-        HashTable ht = new HashTable();
+        HashTable<String, Integer> ht = new HashTable<String, Integer>();
         int choice = -1;
         while (choice != 0) {
             System.out.println("Select an option:");
@@ -76,8 +76,8 @@ public static void main(String[] args)throws IOException{
         System.out.println(key);
 
         System.out.print("Enter the value: ");
-        String assocstring = stdin.readLine();
-        System.out.println(assocstring);
+        int value = Integer.parseInt(stdin.readLine());
+        System.out.println(value);
         Object existingItem = ht.tableRetrieve(key);
         if (existingItem != null) 
         {
@@ -85,8 +85,8 @@ public static void main(String[] args)throws IOException{
         } 
         else 
         {
-            ht.tableInsert(key, assocstring);
-            System.out.println("Item " + assocstring + " inserted into ht with key " + key);
+            ht.tableInsert(key, value);
+            System.out.println("Item " + value + " inserted into ht with key " + key);
         }
     }
 
